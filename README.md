@@ -55,15 +55,6 @@ This project demonstrates skills in:
 - Working with CSV datasets
 - Preparing Kaggle-style submission outputs
 
-## Technologies Used
-
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
 ## Repository Files
 
 ```text
